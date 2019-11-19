@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Fill Out Your 2019 Oscars Picks Now!"
+date:   2019-02-13 13:00:00
+imageUrl: "https://s3.us-east-2.amazonaws.com/pod.atownfm.com/images/a-town_logo_dark.jpg"
+---
+
+**UPDATE: Form is closed.  Thanks to everyone who filled one out!**
+
+The 2019 Oscars Picks form is live!  Cut off is February 21st, so get your picks in now before it's too late!
+
+
+<!-- excerpt-end -->
+
+~~Click here to fill out your picks~~
+
+Curious about last year's results?  Check them out [here](/posts/2018-03-7-oscars-2018-results/).

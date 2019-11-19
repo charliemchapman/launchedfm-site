@@ -1,0 +1,58 @@
+@import './_colors.scss';
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    max-width: 770px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.container h1, .container h2, .container h3, .container h4 {
+    border-bottom: none;
+    color: $primary1;
+}
+
+.container h1 {
+    margin-bottom: 0;
+}
+
+.description a{
+    color: $secondary2;
+}
+
+.patreonButton {
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    background-color: rgb(249, 104, 84);
+    padding: 7px 15px;
+    margin-bottom: 10px;
+    font-size: .9em;
+}
+
+.player {
+    background-color: #DDD;
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.image {
+    height: 90px;
+    width: 90px;
+    margin: 0;
+    padding: 0;
+}
+
+.audio {
+    flex-grow: 1;
+    margin: 0 10px;
+}
+
+.date {
+    font-size: .80em;
+    margin-bottom: 7px;
+}
