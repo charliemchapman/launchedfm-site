@@ -37,8 +37,8 @@
       "path---episodes-58-treasurethe-dream-whateverthe-terror-f81c5f7126ea20a82948.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-f1c18c4ab0e6ab465113.js",
-      "component---src-pages-index-js-f1c18c4ab0e6ab465113.js.map"
+      "component---src-pages-index-js-2cb5aa6a969f3828caea.js",
+      "component---src-pages-index-js-2cb5aa6a969f3828caea.js.map"
     ],
     "path---episodes-72-the-juicy-topics-area-lot-less-whimsical": [
       "path---episodes-72-the-juicy-topics-area-lot-less-whimsical-195c5654640869041647.js",
@@ -160,6 +160,10 @@
       "path---episodes-64-listy-mc-listface-ad22aaddb825534f1b6b.js",
       "path---episodes-64-listy-mc-listface-ad22aaddb825534f1b6b.js.map"
     ],
+    "path---posts-2019-10-7-test": [
+      "path---posts-2019-10-7-test-b1c34bad93ec50e40782.js",
+      "path---posts-2019-10-7-test-b1c34bad93ec50e40782.js.map"
+    ],
     "path---episodes-22-thor-ragnarok": [
       "path---episodes-22-thor-ragnarok-8c605846d6cc27aa6b46.js",
       "path---episodes-22-thor-ragnarok-8c605846d6cc27aa6b46.js.map"
@@ -197,8 +201,8 @@
       "path---episodes-40-ready-player-one-43ea3d5fc3356c915be9.js.map"
     ],
     "path---index": [
-      "path---index-a710c0bcf352863617fa.js",
-      "path---index-a710c0bcf352863617fa.js.map"
+      "path---index-70d5a71b77555840a01a.js",
+      "path---index-70d5a71b77555840a01a.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -215,10 +219,6 @@
     "path---episodes-38-settlingthe-scorewith-time-spaceand-reality": [
       "path---episodes-38-settlingthe-scorewith-time-spaceand-reality-1a8c84e8ce1b0df3f71d.js",
       "path---episodes-38-settlingthe-scorewith-time-spaceand-reality-1a8c84e8ce1b0df3f71d.js.map"
-    ],
-    "path---posts-2018-03-7-oscars-2018-results": [
-      "path---posts-2018-03-7-oscars-2018-results-023c3c5ded155a9e5a87.js",
-      "path---posts-2018-03-7-oscars-2018-results-023c3c5ded155a9e5a87.js.map"
     ],
     "path---episodes-30-nintendo-labo-post-office-andthe-scienceof-plot-holes": [
       "path---episodes-30-nintendo-labo-post-office-andthe-scienceof-plot-holes-65e3ca288ee8bfd8dff4.js",
@@ -307,9 +307,9 @@
       "path---episodes-34-thosewith-glass-toilets-shouldnt-wage-12-th-century-war-474d4375747bec37e3fc.js.map"
     ],
     "app": [
-      "app-711a7dd128aed4c76e3a.js",
+      "app-c4f5898a85294abbe11b.js",
       "build-js-styles.css",
-      "app-711a7dd128aed4c76e3a.js.map",
+      "app-c4f5898a85294abbe11b.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-63-its-hardto-disagree-with-gilmore-girls": [
