@@ -8,7 +8,7 @@ module.exports = {
         {
             resolve: 'gatsby-source-rss-fork',
             options: {
-                    rssURL: 'https://www.relay.fm/cortex/feed'
+                    rssURL: 'http://podcast.atownfm.com/'
             }
         },
         {

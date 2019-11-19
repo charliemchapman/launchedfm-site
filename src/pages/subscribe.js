@@ -4,9 +4,9 @@ import styles from "../styles/page.module.scss";
 
 export default () => (
     <div className={styles.container}>
-        <SEO title="Subscribe | A-Town FM" />
+        <SEO title="Subscribe | Launched" />
         <h1>Subscribe</h1>
-        <p>A-Town FM is available wherever you listen to podcasts.  Just search "A-Town FM" and look for the green tower!</p>
+        <p>Launched is available wherever you listen to podcasts.  Just search "Launched" and look for the paper airplane!</p>
         <p>You can also subscribe directly below:</p>
         <ul>
             <li><a href="http://podcast.atownfm.com/">RSS</a></li>
