@@ -37,8 +37,8 @@
       "path---episodes-58-treasurethe-dream-whateverthe-terror-f81c5f7126ea20a82948.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-2cb5aa6a969f3828caea.js",
-      "component---src-pages-index-js-2cb5aa6a969f3828caea.js.map"
+      "component---src-pages-index-js-69dc5f6055796a7d57e0.js",
+      "component---src-pages-index-js-69dc5f6055796a7d57e0.js.map"
     ],
     "path---episodes-72-the-juicy-topics-area-lot-less-whimsical": [
       "path---episodes-72-the-juicy-topics-area-lot-less-whimsical-195c5654640869041647.js",
@@ -149,8 +149,8 @@
       "path---episodes-3-spider-man-homecoming-the-spider-man-episode-aeafa0ee107ad9e0d7fa.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-263ba7ed3e0b1bf25a7a.js",
-      "component---src-layouts-index-js-263ba7ed3e0b1bf25a7a.js.map"
+      "component---src-layouts-index-js-cbb45532c7a31d2cd1c5.js",
+      "component---src-layouts-index-js-cbb45532c7a31d2cd1c5.js.map"
     ],
     "path---episodes-18-modern-art-debate-boston-drama-time-travel-and-pizza-talk": [
       "path---episodes-18-modern-art-debate-boston-drama-time-travel-and-pizza-talk-53df598ef84d7e7ed065.js",
@@ -159,10 +159,6 @@
     "path---episodes-64-listy-mc-listface": [
       "path---episodes-64-listy-mc-listface-ad22aaddb825534f1b6b.js",
       "path---episodes-64-listy-mc-listface-ad22aaddb825534f1b6b.js.map"
-    ],
-    "path---posts-2019-10-7-test": [
-      "path---posts-2019-10-7-test-b1c34bad93ec50e40782.js",
-      "path---posts-2019-10-7-test-b1c34bad93ec50e40782.js.map"
     ],
     "path---episodes-22-thor-ragnarok": [
       "path---episodes-22-thor-ragnarok-8c605846d6cc27aa6b46.js",
@@ -184,6 +180,10 @@
       "path---episodes-76-stolen-valor-f83aa7109b5875d72012.js",
       "path---episodes-76-stolen-valor-f83aa7109b5875d72012.js.map"
     ],
+    "path---posts-2019-11-19-introducing-launched": [
+      "path---posts-2019-11-19-introducing-launched-19a1dcf6a890dd5ce614.js",
+      "path---posts-2019-11-19-introducing-launched-19a1dcf6a890dd5ce614.js.map"
+    ],
     "path---episodes-70-gameof-thrones-seasons-1-7": [
       "path---episodes-70-gameof-thrones-seasons-1-7-3e0ccbfe6644e8218eab.js",
       "path---episodes-70-gameof-thrones-seasons-1-7-3e0ccbfe6644e8218eab.js.map"
@@ -201,8 +201,8 @@
       "path---episodes-40-ready-player-one-43ea3d5fc3356c915be9.js.map"
     ],
     "path---index": [
-      "path---index-70d5a71b77555840a01a.js",
-      "path---index-70d5a71b77555840a01a.js.map"
+      "path---index-4bbad1c155422abbb6f5.js",
+      "path---index-4bbad1c155422abbb6f5.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -241,9 +241,9 @@
       "path---episodes-16-blade-runner-2049-38f9bdf1ed1caad0525d.js.map"
     ],
     "commons": [
-      "commons-cb29c8007573f04d14b4.js",
+      "commons-a7ff75de94e26088ce25.js",
       "build-js-styles.css",
-      "commons-cb29c8007573f04d14b4.js.map",
+      "commons-a7ff75de94e26088ce25.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-17-movie-pass-waite-park-tragedy-novelty-dans-fall-extravaganza-boston": [
@@ -291,8 +291,8 @@
       "path---episodes-33-0213-18-bonus-episode-cloverfield-paradox-04746ff6f4a497beeeb8.js.map"
     ],
     "component---src-pages-subscribe-js": [
-      "component---src-pages-subscribe-js-5f5e160bd4c7ba718529.js",
-      "component---src-pages-subscribe-js-5f5e160bd4c7ba718529.js.map"
+      "component---src-pages-subscribe-js-de228d969c69f9c55d76.js",
+      "component---src-pages-subscribe-js-de228d969c69f9c55d76.js.map"
     ],
     "path---episodes-77-backdoor-manhandling": [
       "path---episodes-77-backdoor-manhandling-d583a198ccd1ed4bb4fc.js",
@@ -307,9 +307,9 @@
       "path---episodes-34-thosewith-glass-toilets-shouldnt-wage-12-th-century-war-474d4375747bec37e3fc.js.map"
     ],
     "app": [
-      "app-c4f5898a85294abbe11b.js",
+      "app-34380f43feb4a2183193.js",
       "build-js-styles.css",
-      "app-c4f5898a85294abbe11b.js.map",
+      "app-34380f43feb4a2183193.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-63-its-hardto-disagree-with-gilmore-girls": [
@@ -337,8 +337,8 @@
       "path---episodes-46-pranks-brains-and-propaganda-694fef5dbf2232ce3db3.js.map"
     ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-affdbd3862eb42bdf9ba.js",
-      "component---src-pages-about-js-affdbd3862eb42bdf9ba.js.map"
+      "component---src-pages-about-js-b54d5e633e269320e6dc.js",
+      "component---src-pages-about-js-b54d5e633e269320e6dc.js.map"
     ],
     "path---episodes-31-offending-europe-part-2-t-vremakes-oscars-preshow": [
       "path---episodes-31-offending-europe-part-2-t-vremakes-oscars-preshow-df156f321560f4337553.js",
