@@ -30,6 +30,7 @@ export default ({data}) => {
     featuredPostJsx = <FeaturedEpisode episode={allPostsSorted[0]}/>
   }
   else if (featuredPost.type === "blog") {
+  // if (featuredPost.type === "blog") {
     featuredPostJsx = <FeaturedBlogPost post={allPostsSorted[0]}/>
   }
 

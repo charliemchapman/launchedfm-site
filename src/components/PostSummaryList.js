@@ -15,6 +15,7 @@ export default ({data, posts}) => {
             return <EpisodeSummary episode={post.post} key={i} />
         } 
         else if (post.type === "blog") {
+        // if (post.type === "blog") {    
             return <BlogPostSummary post={post.post} key={i}/>
         }
     })
