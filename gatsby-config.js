@@ -8,7 +8,7 @@ module.exports = {
         {
             resolve: 'gatsby-source-rss-fork',
             options: {
-                    rssURL: 'http://podcast.atownfm.com/'
+                    rssURL: 'https://charliemchapman-podcasts.s3.us-east-2.amazonaws.com/launched-beta/rss/launched-test-rss.xml'
             }
         },
         {
