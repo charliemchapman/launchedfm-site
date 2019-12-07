@@ -7,15 +7,15 @@ import atownLogo from "../images/launched_artwork.jpg";
 function getLinks(closeMenu) {
   return (
     [
-      (<Link to="/" onClick={closeMenu} key={1}>
-        <div className={styles.link}>Home</div>
-      </Link>),
       (<Link to="/subscribe" onClick={closeMenu} key={2}>
         <div className={styles.link}>Subscribe</div>
       </Link>),
       (<Link to="/about" onClick={closeMenu} key={4}>
         <div className={styles.link}>About</div>
-      </Link>)
+      </Link>),
+      (<Link to="/" onClick={closeMenu} key={1}>
+      <div className={styles.link}>Home</div>
+      </Link>),
     ]
   )
 }
@@ -35,9 +35,12 @@ export default class Header extends React.Component {
 
     const closeMenu = ()=> {this.setState({ isMenuOpen: false })};
 
-    const menu = this.state.isMenuOpen ? 
-            <div className={styles.menuPopup} onClick={closeMenu}>{getLinks(closeMenu)}</div> 
+    const menuPopupScreen = this.state.isMenuOpen ? 
+            <div className={styles.menuPopupScreen} onClick={closeMenu}></div> 
             : null;
+
+    const menuStateClass = this.state.isMenuOpen ? styles.menuOpened : styles.menuClosed
+    const menuClass = `${styles.menuPopup} ${menuStateClass}`
 
     return (
       <div className={styles.header}>
@@ -52,7 +55,8 @@ export default class Header extends React.Component {
           <div className={styles.menu} onClick={toggleMenu}>
             <img src={hamburger} alt="Menu" />
           </div>
-        { menu }
+          {menuPopupScreen}
+          <div className={menuClass}>{getLinks(closeMenu)}</div>
       </div>
     )
   }
