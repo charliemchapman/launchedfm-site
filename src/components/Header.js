@@ -30,10 +30,11 @@ export default class Header extends React.Component {
 
   render() {
     const toggleMenu = ()=> {
+      document.activeElement.blur()
       this.setState({ isMenuOpen: !this.state.isMenuOpen });
     }
 
-    const closeMenu = ()=> {this.setState({ isMenuOpen: false })};
+    const closeMenu = ()=> { this.setState({ isMenuOpen: false })};
 
     const menuPopupScreen = this.state.isMenuOpen ? 
             <div className={styles.menuPopupScreen} onClick={closeMenu}></div> 
@@ -52,9 +53,9 @@ export default class Header extends React.Component {
         <div className={styles.links}>
           { getLinks(closeMenu) }
         </div>
-          <div className={styles.menu} onClick={toggleMenu}>
+          <button className={styles.menu} onClick={toggleMenu}>
             <img src={hamburger} alt="Menu" />
-          </div>
+          </button>
           {menuPopupScreen}
           <div className={menuClass}>{getLinks(closeMenu)}</div>
       </div>
