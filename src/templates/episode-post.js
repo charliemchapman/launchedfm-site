@@ -1,6 +1,7 @@
 import React from "react";
 import SEO from '../components/SEO';
 import styles from "../styles/page.module.scss";
+import { formatDuration } from "../utils/formatters";
 
 export default ({ data }) => {
   const episode = data.rssFeedItem;
@@ -11,7 +12,7 @@ export default ({ data }) => {
         image={episode.itunes.image}
       />
       <h1>{episode.title}</h1>
-      <div className={styles.date}>{new Date(episode.pubDate).toLocaleDateString()}</div>
+      <div className={styles.date}>{new Date(episode.pubDate).toLocaleDateString()} · {formatDuration(episode.itunes.duration)}</div>
       <div className={styles.player}>
         <img className={styles.image} src={episode.itunes.image}/>
         <audio className={styles.audio} src={episode.enclosure.url} preload="none" controls/>

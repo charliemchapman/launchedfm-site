@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "gatsby-link";
 import styles from "../styles/post-summary.module.scss";
+import { formatDuration } from "../utils/formatters"
 
 export default ({episode}) => {
   return (
@@ -14,6 +15,9 @@ export default ({episode}) => {
                     {episode.title}
                 </Link>
             </h3>
+            <div className={styles.date}>
+                {new Date(episode.pubDate).toLocaleDateString()} · {formatDuration(episode.itunes.duration)}
+            </div>
             <p>{episode.itunes.subtitle}</p>
         </div>
     </div>

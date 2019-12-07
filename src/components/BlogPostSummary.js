@@ -18,6 +18,9 @@ export default ({post}) => {
                     {post.frontmatter.title}
                 </Link>
             </h3>
+            <div className={styles.date}>
+                {new Date(post.frontmatter.date).toLocaleDateString()}
+            </div>
             <p>{post.excerpt}</p>
         </div>
     </div>

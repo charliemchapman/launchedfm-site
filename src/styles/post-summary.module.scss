@@ -16,6 +16,10 @@
     display: flex;
 }
 
+.post h3 {
+    margin-bottom: 0.3rem;
+}
+
 .title {
     color: $primary2;
 }
@@ -29,4 +33,9 @@
 
 .image img{
     width: 100%;
+}
+
+.date {
+    font-size: .80em;
+    margin-bottom: 7px;
 }
