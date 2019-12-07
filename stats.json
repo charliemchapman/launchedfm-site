@@ -8,6 +8,10 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-7137c232a41e03ffae5a.js",
+      "component---src-pages-contact-js-7137c232a41e03ffae5a.js.map"
+    ],
     "path---episodes-3-whatdoyallthink-numberedepisodesornot": [
       "path---episodes-3-whatdoyallthink-numberedepisodesornot-fae43b9dbd601721fee5.js",
       "path---episodes-3-whatdoyallthink-numberedepisodesornot-fae43b9dbd601721fee5.js.map"
@@ -17,8 +21,8 @@
       "component---src-templates-blog-post-js-eb07bf20dc0694dfb2e1.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-4364ae145ccad70d3310.js",
-      "component---src-layouts-index-js-4364ae145ccad70d3310.js.map"
+      "component---src-layouts-index-js-b8850e1b8626e7d66aba.js",
+      "component---src-layouts-index-js-b8850e1b8626e7d66aba.js.map"
     ],
     "path---posts-2019-11-19-introducing-launched": [
       "path---posts-2019-11-19-introducing-launched-19a1dcf6a890dd5ce614.js",
@@ -38,6 +42,10 @@
       "commons-9c63b6e0dba67f403df3.js.map",
       "build-js-styles.css.map"
     ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-pages-subscribe-js": [
       "component---src-pages-subscribe-js-de228d969c69f9c55d76.js",
       "component---src-pages-subscribe-js-de228d969c69f9c55d76.js.map"
@@ -47,9 +55,9 @@
       "path---episodes-5-ithinkthisaughttobeenoughdummyepisodesfornow-1e539579d6fbe5ed1eaf.js.map"
     ],
     "app": [
-      "app-b15a7b4d68c76ceabbc4.js",
+      "app-2dfd6c6ff3ee43f8b89f.js",
       "build-js-styles.css",
-      "app-b15a7b4d68c76ceabbc4.js.map",
+      "app-2dfd6c6ff3ee43f8b89f.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-2-testepisodesarethebest": [
