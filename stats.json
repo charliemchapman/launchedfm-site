@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-5e0103a563f28abdf177.js",
-      "component---src-pages-index-js-5e0103a563f28abdf177.js.map"
+      "component---src-pages-index-js-355657510076c0474840.js",
+      "component---src-pages-index-js-355657510076c0474840.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -11,10 +11,6 @@
     "component---src-pages-contact-js": [
       "component---src-pages-contact-js-7137c232a41e03ffae5a.js",
       "component---src-pages-contact-js-7137c232a41e03ffae5a.js.map"
-    ],
-    "path---episodes-3-whatdoyallthink-numberedepisodesornot": [
-      "path---episodes-3-whatdoyallthink-numberedepisodesornot-fae43b9dbd601721fee5.js",
-      "path---episodes-3-whatdoyallthink-numberedepisodesornot-fae43b9dbd601721fee5.js.map"
     ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-eb07bf20dc0694dfb2e1.js",
@@ -25,12 +21,12 @@
       "component---src-layouts-index-js-d6df436738c9e3cb2873.js.map"
     ],
     "path---posts-2019-11-19-introducing-launched": [
-      "path---posts-2019-11-19-introducing-launched-19a1dcf6a890dd5ce614.js",
-      "path---posts-2019-11-19-introducing-launched-19a1dcf6a890dd5ce614.js.map"
+      "path---posts-2019-11-19-introducing-launched-c26143b032e1531980d7.js",
+      "path---posts-2019-11-19-introducing-launched-c26143b032e1531980d7.js.map"
     ],
     "path---index": [
-      "path---index-457de6d9a065350135e2.js",
-      "path---index-457de6d9a065350135e2.js.map"
+      "path---index-be741e21d54d9ec9b40e.js",
+      "path---index-be741e21d54d9ec9b40e.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -47,38 +43,26 @@
       "path---contact-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-subscribe-js": [
-      "component---src-pages-subscribe-js-de228d969c69f9c55d76.js",
-      "component---src-pages-subscribe-js-de228d969c69f9c55d76.js.map"
+      "component---src-pages-subscribe-js-37a253d33fd6aa7564f0.js",
+      "component---src-pages-subscribe-js-37a253d33fd6aa7564f0.js.map"
     ],
-    "path---episodes-5-ithinkthisaughttobeenoughdummyepisodesfornow": [
-      "path---episodes-5-ithinkthisaughttobeenoughdummyepisodesfornow-1e539579d6fbe5ed1eaf.js",
-      "path---episodes-5-ithinkthisaughttobeenoughdummyepisodesfornow-1e539579d6fbe5ed1eaf.js.map"
+    "path---episodes-introducing-launched": [
+      "path---episodes-introducing-launched-904413a18abca5357861.js",
+      "path---episodes-introducing-launched-904413a18abca5357861.js.map"
     ],
     "app": [
-      "app-2dfd6c6ff3ee43f8b89f.js",
+      "app-4ada64436aaa8c13c30a.js",
       "build-js-styles.css",
-      "app-2dfd6c6ff3ee43f8b89f.js.map",
+      "app-4ada64436aaa8c13c30a.js.map",
       "build-js-styles.css.map"
     ],
-    "path---episodes-2-testepisodesarethebest": [
-      "path---episodes-2-testepisodesarethebest-0834bc9b7117082292ef.js",
-      "path---episodes-2-testepisodesarethebest-0834bc9b7117082292ef.js.map"
-    ],
-    "path---episodes-1-thefirstepisode": [
-      "path---episodes-1-thefirstepisode-0634d078ef720ebed0ae.js",
-      "path---episodes-1-thefirstepisode-0634d078ef720ebed0ae.js.map"
-    ],
     "component---src-templates-episode-post-js": [
-      "component---src-templates-episode-post-js-c409ffe1a41e1af51558.js",
-      "component---src-templates-episode-post-js-c409ffe1a41e1af51558.js.map"
+      "component---src-templates-episode-post-js-d3b5c136c2009919c3fa.js",
+      "component---src-templates-episode-post-js-d3b5c136c2009919c3fa.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-b54d5e633e269320e6dc.js",
       "component---src-pages-about-js-b54d5e633e269320e6dc.js.map"
-    ],
-    "path---episodes-4-iwish-iweremorecreativesometimes": [
-      "path---episodes-4-iwish-iweremorecreativesometimes-fd7d9ef443726ff5533a.js",
-      "path---episodes-4-iwish-iweremorecreativesometimes-fd7d9ef443726ff5533a.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
