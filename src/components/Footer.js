@@ -38,7 +38,7 @@ export default class Header extends React.Component {
             <div>|</div>
             <Link to="/">Home</Link>
         </div>
-        <p>Made by Charlie Chapman in St. Louis, MO</p>
+        <p className={styles.signature}>Made by Charlie Chapman in St. Louis, MO</p>
       </div>
     )
   }
