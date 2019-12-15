@@ -16,6 +16,7 @@ export default () => (
             <li><a href="/">Overcast (coming soon)</a></li>
             <li><a href="/">Castro (coming soon)</a></li>
             <li><a href="/">Pocket Casts (coming soon)</a></li>
+            <li><a href="https://www.stitcher.com/s?fid=491180">Stitcher</a></li>
         </ul>
     </div>
 )
