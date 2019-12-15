@@ -17,7 +17,7 @@ export default ({ data }) => {
         <img className={styles.image} src={episode.itunes.image}/>
         <audio className={styles.audio} src={episode.enclosure.url} preload="none" controls/>
       </div>
-      <div className={styles.description} dangerouslySetInnerHTML={{ __html: episode.content }} />
+      <div className={styles.description} dangerouslySetInnerHTML={{ __html: episode.itunes.summary }} />
     </div>
   );
 };
@@ -36,6 +36,7 @@ export const query = graphql`
         content
         itunes {
           subtitle
+          summary
           explicit
           duration
           image

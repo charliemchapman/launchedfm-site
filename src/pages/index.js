@@ -55,7 +55,7 @@ export const query = graphql`
                   date(formatString: "DD MMMM, YYYY")
                   imageUrl
                 }
-                excerpt(pruneLength: 80)
+                excerpt(pruneLength: 160)
                 html
                 fields {
                   slug

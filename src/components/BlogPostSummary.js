@@ -15,7 +15,7 @@ export default ({post}) => {
         <div>
             <h3>
                 <Link to={post.fields.slug} className={styles.title}>
-                    {post.frontmatter.title}
+                    Blog: {post.frontmatter.title}
                 </Link>
             </h3>
             <div className={styles.date}>

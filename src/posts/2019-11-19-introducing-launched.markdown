@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "Introducing Launched"
+title:  "Welcome to Launched"
 date:   2019-11-19 17:00:00
 imageUrl: "http://launchedfm.com/launched_artwork.jpg"
 ---
 
 Hi 👋, I'm Charlie Chapman and I'm working on a new podcast called Launched where I'll interview app developers and other creators about their experiences releasing a creation out into the world.
-
-<!-- excerpt-end -->
 
 I recently went through this process myself with the launch of my iOS app [Dark Noise](https://darknoise.app/) and I found that listening to developer interviews on podcasts was extremely helpful in preparing me for what to expect and giving me ideas on how to build a marketing plan around the release.  My hope is that **Launched** can be a resource for aspiring creators by providing a platform for people to share their experiences launching something into the world.
 
