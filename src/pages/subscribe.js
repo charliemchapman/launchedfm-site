@@ -13,9 +13,9 @@ export default () => (
             <li><a href="https://podcasts.apple.com/us/podcast/launched/id1491582246">Apple Podcast</a></li>
             <li><a href="https://open.spotify.com/show/4lVKxKrG2n4pGYST801GLs">Spotify</a></li>
             <li><a href="/">Google Podcasts (coming soon)</a></li>
-            <li><a href="/">Overcast (coming soon)</a></li>
-            <li><a href="/">Castro (coming soon)</a></li>
-            <li><a href="/">Pocket Casts (coming soon)</a></li>
+            <li><a href="https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?ls=1&mt=8">Overcast</a></li>
+            <li><a href="https://castro.fm/itunes/1491582246">Castro</a></li>
+            <li><a href="https://pca.st/itunes/1491582246">Pocket Casts</a></li>
             <li><a href="https://www.stitcher.com/s?fid=491180">Stitcher</a></li>
         </ul>
     </div>
