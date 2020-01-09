@@ -11,4 +11,4 @@ I recently went through this process myself with the launch of my iOS app [Dark 
 
 This is where I need your help. If you are an app developer or creator who has a launch story to tell (or a future launch coming up) I'd love to hear from you!  I've created a form to collect applications for coming on the show [here](https://docs.google.com/forms/d/e/1FAIpQLSfxduoOnjnF_qE6PpnEGdKewWHvB3YDl0gv3WAxAJ4HDVq8Bg/viewform).
 
-If this podcast sounds interesting to you, give us a follow on Twitter at [@LaunchedFM](https://twitter.com/launchedfm) or my personal account at [@chuckyc17](https://twitter.com/chuckyc17).  And if you have any ideas or feedback, my DMs are always open!
+If this podcast sounds interesting to you, give us a follow on Twitter at [@LaunchedFM](https://twitter.com/launchedfm) or my personal account at [@_chuckyc](https://twitter.com/_chuckyc).  And if you have any ideas or feedback, my DMs are always open!
