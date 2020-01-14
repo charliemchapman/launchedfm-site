@@ -25,8 +25,8 @@
       "path---posts-2019-11-19-introducing-launched-e452880ef898a70fb77a.js.map"
     ],
     "path---index": [
-      "path---index-95ef75eb1a1f5611acbe.js",
-      "path---index-95ef75eb1a1f5611acbe.js.map"
+      "path---index-954ba550a8f4992e3eb2.js",
+      "path---index-954ba550a8f4992e3eb2.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -55,9 +55,9 @@
       "path---episodes-introducing-launched-265c89572535708e238b.js.map"
     ],
     "app": [
-      "app-62caf50d8e1c28d3b09a.js",
+      "app-04864b238b22b12ac683.js",
       "build-js-styles.css",
-      "app-62caf50d8e1c28d3b09a.js.map",
+      "app-04864b238b22b12ac683.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-episode-post-js": [
@@ -71,6 +71,10 @@
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
       "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---episodes-2-christian-selig": [
+      "path---episodes-2-christian-selig-e2e4c75847554e38d1aa.js",
+      "path---episodes-2-christian-selig-e2e4c75847554e38d1aa.js.map"
     ]
   }
 }
