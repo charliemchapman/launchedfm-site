@@ -1,8 +1,12 @@
 {
   "assetsByChunkName": {
     "path---episodes-3-kaya-thomas": [
-      "path---episodes-3-kaya-thomas-7eaadccc88ba31e84d06.js",
-      "path---episodes-3-kaya-thomas-7eaadccc88ba31e84d06.js.map"
+      "path---episodes-3-kaya-thomas-96c12eadef1eb21518bb.js",
+      "path---episodes-3-kaya-thomas-96c12eadef1eb21518bb.js.map"
+    ],
+    "path---episodes-4-james-thomson": [
+      "path---episodes-4-james-thomson-035bc68880e24d2ac7e5.js",
+      "path---episodes-4-james-thomson-035bc68880e24d2ac7e5.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-355657510076c0474840.js",
@@ -29,8 +33,8 @@
       "path---posts-2019-11-19-introducing-launched-e452880ef898a70fb77a.js.map"
     ],
     "path---index": [
-      "path---index-86df17fa5fd9ccd737c3.js",
-      "path---index-86df17fa5fd9ccd737c3.js.map"
+      "path---index-67ce9422a547633fed5a.js",
+      "path---index-67ce9422a547633fed5a.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -59,9 +63,9 @@
       "path---episodes-introducing-launched-265c89572535708e238b.js.map"
     ],
     "app": [
-      "app-57d71a89f2c50ceff253.js",
+      "app-83d037bf7d47a1967a3e.js",
       "build-js-styles.css",
-      "app-57d71a89f2c50ceff253.js.map",
+      "app-83d037bf7d47a1967a3e.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-episode-post-js": [
