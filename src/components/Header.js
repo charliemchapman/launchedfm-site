@@ -11,7 +11,7 @@ function getLinks(closeMenu) {
         <div className={styles.link}>Subscribe</div>
       </Link>),
       (<a href="https://cottonbureau.com/products/launched-podcast" key={2}>
-        <div className={styles.link}>Merch</div>
+        <div className={styles.link}>Store</div>
       </a>),
       (<Link to="/contact" onClick={closeMenu} key={3}>
         <div className={styles.link}>Contact</div>
