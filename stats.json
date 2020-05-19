@@ -17,8 +17,8 @@
       "path---episodes-4-james-thomson-26d46acb50fa9d1aa02a.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-355657510076c0474840.js",
-      "component---src-pages-index-js-355657510076c0474840.js.map"
+      "component---src-pages-index-js-492a14d32b7c927b9894.js",
+      "component---src-pages-index-js-492a14d32b7c927b9894.js.map"
     ],
     "path---episodes-12-seth-worley": [
       "path---episodes-12-seth-worley-bf1e9bfb22c380b5f93e.js",
@@ -29,8 +29,8 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-pages-contact-js": [
-      "component---src-pages-contact-js-7137c232a41e03ffae5a.js",
-      "component---src-pages-contact-js-7137c232a41e03ffae5a.js.map"
+      "component---src-pages-contact-js-66200c323cc395f991a3.js",
+      "component---src-pages-contact-js-66200c323cc395f991a3.js.map"
     ],
     "path---episodes-6-nighthawk-nathan-lawrence-sam-gold": [
       "path---episodes-6-nighthawk-nathan-lawrence-sam-gold-6bda0ed57918969ad2a6.js",
@@ -45,16 +45,16 @@
       "component---src-templates-blog-post-js-eb07bf20dc0694dfb2e1.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-d6df436738c9e3cb2873.js",
-      "component---src-layouts-index-js-d6df436738c9e3cb2873.js.map"
+      "component---src-layouts-index-js-66b0f638f4e81181b820.js",
+      "component---src-layouts-index-js-66b0f638f4e81181b820.js.map"
     ],
     "path---posts-2019-11-19-introducing-launched": [
       "path---posts-2019-11-19-introducing-launched-e452880ef898a70fb77a.js",
       "path---posts-2019-11-19-introducing-launched-e452880ef898a70fb77a.js.map"
     ],
     "path---index": [
-      "path---index-6850d5532dfe2e955ca6.js",
-      "path---index-6850d5532dfe2e955ca6.js.map"
+      "path---index-66eae59cfc0ec111fc37.js",
+      "path---index-66eae59cfc0ec111fc37.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -95,9 +95,9 @@
       "path---episodes-introducing-launched-265c89572535708e238b.js.map"
     ],
     "app": [
-      "app-11a0d0fb493c8839fec3.js",
+      "app-bb40a60e32c3b38e7f7f.js",
       "build-js-styles.css",
-      "app-11a0d0fb493c8839fec3.js.map",
+      "app-bb40a60e32c3b38e7f7f.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-episode-post-js": [
@@ -115,6 +115,10 @@
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
       "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---posts-2020-05-18-launched-merch": [
+      "path---posts-2020-05-18-launched-merch-7da7caa0935a8bb78b43.js",
+      "path---posts-2020-05-18-launched-merch-7da7caa0935a8bb78b43.js.map"
     ],
     "path---episodes-2-christian-selig": [
       "path---episodes-2-christian-selig-e2e4c75847554e38d1aa.js",
