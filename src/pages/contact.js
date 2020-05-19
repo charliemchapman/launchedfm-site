@@ -4,7 +4,7 @@ import styles from "../styles/page.module.scss";
 
 export default () => (
     <div className={styles.container}>
-        <SEO title="About | Launched" />
+        <SEO title="Contact | Launched" />
         <h1>Contact</h1>
 
         <p>If you want to discuss the show with other listeners or make recommendations, the best place to reach out is the dedicated Subreddit below.</p>

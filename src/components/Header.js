@@ -10,13 +10,16 @@ function getLinks(closeMenu) {
       (<Link to="/subscribe" onClick={closeMenu} key={1}>
         <div className={styles.link}>Subscribe</div>
       </Link>),
-      (<Link to="/contact" onClick={closeMenu} key={2}>
+      (<a href="https://cottonbureau.com/products/launched-podcast" key={2}>
+        <div className={styles.link}>Merch</div>
+      </a>),
+      (<Link to="/contact" onClick={closeMenu} key={3}>
         <div className={styles.link}>Contact</div>
       </Link>),
-      (<Link to="/about" onClick={closeMenu} key={3}>
+      (<Link to="/about" onClick={closeMenu} key={4}>
         <div className={styles.link}>About</div>
       </Link>),
-      (<Link to="/" onClick={closeMenu} key={4}>
+      (<Link to="/" onClick={closeMenu} key={5}>
       <div className={styles.link}>Home</div>
       </Link>),
     ]

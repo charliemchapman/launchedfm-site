@@ -4,10 +4,17 @@ import styles from "../styles/featured-post.module.scss"
 
 export default ({post}) => { 
   let blogPost = post.post;
+  let image = !blogPost.frontmatter.imageUrl ? null : (
+    <img src={blogPost.frontmatter.imageUrl} alt="post thumbnail"/>
+  )
 
   return (
   <div className={styles.container}>
-    <div className={styles.content}>
+    <div className={styles.blogContent}>
+      <div className={styles.image}>
+          {image}
+      </div>
+      <div>
         <h1>
           <Link to={blogPost.fields.slug} className={styles.title}>
             {blogPost.frontmatter.title}
@@ -16,6 +23,7 @@ export default ({post}) => {
         <div className={styles.date}>{new Date(blogPost.frontmatter.date).toLocaleDateString()}</div>
         <p>{blogPost.excerpt}</p>
         <Link to={blogPost.fields.slug} className={styles.shownotes}>View Full Post</Link>
-    </div>  
+      </div>  
+    </div>
   </div>
 )};
