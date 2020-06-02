@@ -61,12 +61,16 @@
       "path---posts-2019-11-19-introducing-launched-e452880ef898a70fb77a.js.map"
     ],
     "path---index": [
-      "path---index-1737749ea0a7664350fa.js",
-      "path---index-1737749ea0a7664350fa.js.map"
+      "path---index-f1b6f1ab73a0fee7e884.js",
+      "path---index-f1b6f1ab73a0fee7e884.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
       "path---subscribe-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---episodes-black-lives-matter": [
+      "path---episodes-black-lives-matter-b4ce63b774017f9e2d40.js",
+      "path---episodes-black-lives-matter-b4ce63b774017f9e2d40.js.map"
     ],
     "path---episodes-10-toolbox-pro-alex-hay": [
       "path---episodes-10-toolbox-pro-alex-hay-4f0d62e64228529502e1.js",
@@ -107,9 +111,9 @@
       "path---episodes-introducing-launched-265c89572535708e238b.js.map"
     ],
     "app": [
-      "app-45d49c351be9d2e71243.js",
+      "app-0af267a17cb0046559a1.js",
       "build-js-styles.css",
-      "app-45d49c351be9d2e71243.js.map",
+      "app-0af267a17cb0046559a1.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-episode-post-js": [
