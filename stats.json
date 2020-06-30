@@ -28,6 +28,10 @@
       "component---src-pages-index-js-492a14d32b7c927b9894.js",
       "component---src-pages-index-js-492a14d32b7c927b9894.js.map"
     ],
+    "path---episodes-16-tasks-mustafa": [
+      "path---episodes-16-tasks-mustafa-2881793303cf793898a7.js",
+      "path---episodes-16-tasks-mustafa-2881793303cf793898a7.js.map"
+    ],
     "path---episodes-12-seth-worley": [
       "path---episodes-12-seth-worley-1fc50d7a07a6984861e8.js",
       "path---episodes-12-seth-worley-1fc50d7a07a6984861e8.js.map"
@@ -65,8 +69,8 @@
       "path---posts-2019-11-19-introducing-launched-e452880ef898a70fb77a.js.map"
     ],
     "path---index": [
-      "path---index-ee18e6a56c63c3ac7f65.js",
-      "path---index-ee18e6a56c63c3ac7f65.js.map"
+      "path---index-28dd88e2f8195ff2ed91.js",
+      "path---index-28dd88e2f8195ff2ed91.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -115,9 +119,9 @@
       "path---episodes-introducing-launched-d1fc717170b8820eaf54.js.map"
     ],
     "app": [
-      "app-9e81f30378e8b65e55e1.js",
+      "app-2f674c00a0beadf78a35.js",
       "build-js-styles.css",
-      "app-9e81f30378e8b65e55e1.js.map",
+      "app-2f674c00a0beadf78a35.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-episode-post-js": [
