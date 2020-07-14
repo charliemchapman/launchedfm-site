@@ -60,6 +60,10 @@
       "component---src-templates-blog-post-js-eb07bf20dc0694dfb2e1.js",
       "component---src-templates-blog-post-js-eb07bf20dc0694dfb2e1.js.map"
     ],
+    "path---episodes-17-say-their-names-franck-ndame": [
+      "path---episodes-17-say-their-names-franck-ndame-aa72175c217f339f9d7b.js",
+      "path---episodes-17-say-their-names-franck-ndame-aa72175c217f339f9d7b.js.map"
+    ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-f029d4a43961fa5c816c.js",
       "component---src-layouts-index-js-f029d4a43961fa5c816c.js.map"
@@ -69,8 +73,8 @@
       "path---posts-2019-11-19-introducing-launched-e452880ef898a70fb77a.js.map"
     ],
     "path---index": [
-      "path---index-2475f79dd01ee49d25da.js",
-      "path---index-2475f79dd01ee49d25da.js.map"
+      "path---index-4e013e9490057b6f8358.js",
+      "path---index-4e013e9490057b6f8358.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -119,9 +123,9 @@
       "path---episodes-introducing-launched-d1fc717170b8820eaf54.js.map"
     ],
     "app": [
-      "app-2f674c00a0beadf78a35.js",
+      "app-3b052beef97c4f7fa28d.js",
       "build-js-styles.css",
-      "app-2f674c00a0beadf78a35.js.map",
+      "app-3b052beef97c4f7fa28d.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-episode-post-js": [
