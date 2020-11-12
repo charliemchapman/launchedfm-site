@@ -20,6 +20,10 @@
       "path---episodes-4-james-thomson-99e67189867014318a70.js",
       "path---episodes-4-james-thomson-99e67189867014318a70.js.map"
     ],
+    "path---episodes-20-carrot-weather-brian-mueller": [
+      "path---episodes-20-carrot-weather-brian-mueller-deb468e9fea5172a9c24.js",
+      "path---episodes-20-carrot-weather-brian-mueller-deb468e9fea5172a9c24.js.map"
+    ],
     "path---episodes-14-slopes-curtis-herbert": [
       "path---episodes-14-slopes-curtis-herbert-bdf338d18a226600a180.js",
       "path---episodes-14-slopes-curtis-herbert-bdf338d18a226600a180.js.map"
@@ -81,8 +85,8 @@
       "path---posts-2019-11-19-introducing-launched-e452880ef898a70fb77a.js.map"
     ],
     "path---index": [
-      "path---index-bc0940e99de833c58596.js",
-      "path---index-bc0940e99de833c58596.js.map"
+      "path---index-0055b0a577a2d7b565c3.js",
+      "path---index-0055b0a577a2d7b565c3.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -131,9 +135,9 @@
       "path---episodes-introducing-launched-d1fc717170b8820eaf54.js.map"
     ],
     "app": [
-      "app-fbbc3e994338122fd6b9.js",
+      "app-82c37ddcd9830077cab3.js",
       "build-js-styles.css",
-      "app-fbbc3e994338122fd6b9.js.map",
+      "app-82c37ddcd9830077cab3.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-backto-school-break": [
