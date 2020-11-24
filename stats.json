@@ -48,6 +48,10 @@
       "component---src-pages-contact-js-66200c323cc395f991a3.js",
       "component---src-pages-contact-js-66200c323cc395f991a3.js.map"
     ],
+    "path---episodes-21-darkroom-majd-taby": [
+      "path---episodes-21-darkroom-majd-taby-5225bbacad66eb8fc746.js",
+      "path---episodes-21-darkroom-majd-taby-5225bbacad66eb8fc746.js.map"
+    ],
     "path---episodes-6-nighthawk-nathan-lawrence-sam-gold": [
       "path---episodes-6-nighthawk-nathan-lawrence-sam-gold-d7731f696ae77f11848f.js",
       "path---episodes-6-nighthawk-nathan-lawrence-sam-gold-d7731f696ae77f11848f.js.map"
@@ -85,8 +89,8 @@
       "path---posts-2019-11-19-introducing-launched-e452880ef898a70fb77a.js.map"
     ],
     "path---index": [
-      "path---index-0055b0a577a2d7b565c3.js",
-      "path---index-0055b0a577a2d7b565c3.js.map"
+      "path---index-3ba93210497fa4ae1b0d.js",
+      "path---index-3ba93210497fa4ae1b0d.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -135,9 +139,9 @@
       "path---episodes-introducing-launched-d1fc717170b8820eaf54.js.map"
     ],
     "app": [
-      "app-82c37ddcd9830077cab3.js",
+      "app-804e15efda18c745140f.js",
       "build-js-styles.css",
-      "app-82c37ddcd9830077cab3.js.map",
+      "app-804e15efda18c745140f.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-backto-school-break": [
