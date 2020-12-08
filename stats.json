@@ -89,8 +89,8 @@
       "path---posts-2019-11-19-introducing-launched-e452880ef898a70fb77a.js.map"
     ],
     "path---index": [
-      "path---index-3ba93210497fa4ae1b0d.js",
-      "path---index-3ba93210497fa4ae1b0d.js.map"
+      "path---index-934ea486870a8d7060f0.js",
+      "path---index-934ea486870a8d7060f0.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -139,9 +139,9 @@
       "path---episodes-introducing-launched-d1fc717170b8820eaf54.js.map"
     ],
     "app": [
-      "app-804e15efda18c745140f.js",
+      "app-e32fa6a462f2a839729c.js",
       "build-js-styles.css",
-      "app-804e15efda18c745140f.js.map",
+      "app-e32fa6a462f2a839729c.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-backto-school-break": [
@@ -171,6 +171,10 @@
     "path---episodes-2-christian-selig": [
       "path---episodes-2-christian-selig-b07020ff2d1fb34df3e1.js",
       "path---episodes-2-christian-selig-b07020ff2d1fb34df3e1.js.map"
+    ],
+    "path---episodes-22-castro-oisn-prendiville": [
+      "path---episodes-22-castro-oisn-prendiville-ce9e914c85b96b4ac608.js",
+      "path---episodes-22-castro-oisn-prendiville-ce9e914c85b96b4ac608.js.map"
     ]
   }
 }
