@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---episodes-23-capsicum-ish-sha-bazz": [
-      "path---episodes-23-capsicum-ish-sha-bazz-86a5175b7f3178844490.js",
-      "path---episodes-23-capsicum-ish-sha-bazz-86a5175b7f3178844490.js.map"
+      "path---episodes-23-capsicum-ish-sha-bazz-69b8727fbcb2d9426083.js",
+      "path---episodes-23-capsicum-ish-sha-bazz-69b8727fbcb2d9426083.js.map"
     ],
     "path---episodes-3-kaya-thomas": [
       "path---episodes-3-kaya-thomas-af504806cbf697c792e7.js",
@@ -64,6 +64,10 @@
       "path---episodes-5-myke-hurley-7b55393063ccd0388f08.js",
       "path---episodes-5-myke-hurley-7b55393063ccd0388f08.js.map"
     ],
+    "path---episodes-24-widgetsmith-david-smith": [
+      "path---episodes-24-widgetsmith-david-smith-c275be577d7c9bdf5ee6.js",
+      "path---episodes-24-widgetsmith-david-smith-c275be577d7c9bdf5ee6.js.map"
+    ],
     "path---episodes-19-pennant-tyler-hillsman": [
       "path---episodes-19-pennant-tyler-hillsman-d7b1ff3681d9610c02a6.js",
       "path---episodes-19-pennant-tyler-hillsman-d7b1ff3681d9610c02a6.js.map"
@@ -93,8 +97,8 @@
       "path---posts-2019-11-19-introducing-launched-e452880ef898a70fb77a.js.map"
     ],
     "path---index": [
-      "path---index-e5e5fdd9800174823ba8.js",
-      "path---index-e5e5fdd9800174823ba8.js.map"
+      "path---index-af1713125a3aa57614a3.js",
+      "path---index-af1713125a3aa57614a3.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -143,9 +147,9 @@
       "path---episodes-introducing-launched-26fc18e30d0fa405f5f3.js.map"
     ],
     "app": [
-      "app-e10994d149db25b2b683.js",
+      "app-0b0e5098e9a19ec2f628.js",
       "build-js-styles.css",
-      "app-e10994d149db25b2b683.js.map",
+      "app-0b0e5098e9a19ec2f628.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-backto-school-break": [
