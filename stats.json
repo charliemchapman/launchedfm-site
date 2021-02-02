@@ -97,8 +97,8 @@
       "path---posts-2019-11-19-introducing-launched-e452880ef898a70fb77a.js.map"
     ],
     "path---index": [
-      "path---index-b0fe9814a6733b995cb9.js",
-      "path---index-b0fe9814a6733b995cb9.js.map"
+      "path---index-e5364ac18718f1fb611d.js",
+      "path---index-e5364ac18718f1fb611d.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -150,10 +150,14 @@
       "path---episodes-introducing-launched-26fc18e30d0fa405f5f3.js",
       "path---episodes-introducing-launched-26fc18e30d0fa405f5f3.js.map"
     ],
+    "path---episodes-25-hackingwith-swift-paul-hudson": [
+      "path---episodes-25-hackingwith-swift-paul-hudson-aae1a1916e8d7681efcc.js",
+      "path---episodes-25-hackingwith-swift-paul-hudson-aae1a1916e8d7681efcc.js.map"
+    ],
     "app": [
-      "app-1e2857f616544f26a362.js",
+      "app-77bde880968d6fe9dd15.js",
       "build-js-styles.css",
-      "app-1e2857f616544f26a362.js.map",
+      "app-77bde880968d6fe9dd15.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-backto-school-break": [
