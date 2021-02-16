@@ -4,6 +4,10 @@
       "path---episodes-23-capsicum-ish-sha-bazz-69b8727fbcb2d9426083.js",
       "path---episodes-23-capsicum-ish-sha-bazz-69b8727fbcb2d9426083.js.map"
     ],
+    "path---episodes-27-relay-fm-stephen-hackett": [
+      "path---episodes-27-relay-fm-stephen-hackett-2b17f69f1740ee944b15.js",
+      "path---episodes-27-relay-fm-stephen-hackett-2b17f69f1740ee944b15.js.map"
+    ],
     "path---episodes-3-kaya-thomas": [
       "path---episodes-3-kaya-thomas-af504806cbf697c792e7.js",
       "path---episodes-3-kaya-thomas-af504806cbf697c792e7.js.map"
@@ -19,6 +23,10 @@
     "path---episodes-13-cosmicast-shihab-mehboob": [
       "path---episodes-13-cosmicast-shihab-mehboob-a022271447d0795f36e7.js",
       "path---episodes-13-cosmicast-shihab-mehboob-a022271447d0795f36e7.js.map"
+    ],
+    "path---episodes-26-hackingwith-swift-paul-hudson": [
+      "path---episodes-26-hackingwith-swift-paul-hudson-ab7383069cf55e57407b.js",
+      "path---episodes-26-hackingwith-swift-paul-hudson-ab7383069cf55e57407b.js.map"
     ],
     "path---episodes-4-james-thomson": [
       "path---episodes-4-james-thomson-d4776ae25bb25fa6ba39.js",
@@ -97,8 +105,8 @@
       "path---posts-2019-11-19-introducing-launched-e452880ef898a70fb77a.js.map"
     ],
     "path---index": [
-      "path---index-e5364ac18718f1fb611d.js",
-      "path---index-e5364ac18718f1fb611d.js.map"
+      "path---index-0bf57c9f5e0fb9e1694f.js",
+      "path---index-0bf57c9f5e0fb9e1694f.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -150,14 +158,10 @@
       "path---episodes-introducing-launched-26fc18e30d0fa405f5f3.js",
       "path---episodes-introducing-launched-26fc18e30d0fa405f5f3.js.map"
     ],
-    "path---episodes-25-hackingwith-swift-paul-hudson": [
-      "path---episodes-25-hackingwith-swift-paul-hudson-aae1a1916e8d7681efcc.js",
-      "path---episodes-25-hackingwith-swift-paul-hudson-aae1a1916e8d7681efcc.js.map"
-    ],
     "app": [
-      "app-77bde880968d6fe9dd15.js",
+      "app-a0f242f725d3190d4e34.js",
       "build-js-styles.css",
-      "app-77bde880968d6fe9dd15.js.map",
+      "app-a0f242f725d3190d4e34.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-backto-school-break": [
