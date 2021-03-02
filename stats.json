@@ -60,6 +60,10 @@
       "component---src-pages-contact-js-66200c323cc395f991a3.js",
       "component---src-pages-contact-js-66200c323cc395f991a3.js.map"
     ],
+    "path---episodes-28-air-buddy-gui-rambo": [
+      "path---episodes-28-air-buddy-gui-rambo-54124736fa9c0c98218a.js",
+      "path---episodes-28-air-buddy-gui-rambo-54124736fa9c0c98218a.js.map"
+    ],
     "path---episodes-21-darkroom-majd-taby": [
       "path---episodes-21-darkroom-majd-taby-836125f239a9074dc96b.js",
       "path---episodes-21-darkroom-majd-taby-836125f239a9074dc96b.js.map"
@@ -105,8 +109,8 @@
       "path---posts-2019-11-19-introducing-launched-e452880ef898a70fb77a.js.map"
     ],
     "path---index": [
-      "path---index-0bf57c9f5e0fb9e1694f.js",
-      "path---index-0bf57c9f5e0fb9e1694f.js.map"
+      "path---index-01cda844531d2c1d2745.js",
+      "path---index-01cda844531d2c1d2745.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -159,9 +163,9 @@
       "path---episodes-introducing-launched-26fc18e30d0fa405f5f3.js.map"
     ],
     "app": [
-      "app-a0f242f725d3190d4e34.js",
+      "app-bc9cd505b67578821e19.js",
       "build-js-styles.css",
-      "app-a0f242f725d3190d4e34.js.map",
+      "app-bc9cd505b67578821e19.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-backto-school-break": [
