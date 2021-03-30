@@ -72,6 +72,10 @@
       "path---episodes-6-nighthawk-nathan-lawrence-sam-gold-c9be9c9215b8fd573836.js",
       "path---episodes-6-nighthawk-nathan-lawrence-sam-gold-c9be9c9215b8fd573836.js.map"
     ],
+    "path---episodes-30-astropad-matt-ronge": [
+      "path---episodes-30-astropad-matt-ronge-180d6a4400eaf0c495c5.js",
+      "path---episodes-30-astropad-matt-ronge-180d6a4400eaf0c495c5.js.map"
+    ],
     "path---episodes-5-myke-hurley": [
       "path---episodes-5-myke-hurley-7b55393063ccd0388f08.js",
       "path---episodes-5-myke-hurley-7b55393063ccd0388f08.js.map"
@@ -109,8 +113,8 @@
       "path---posts-2019-11-19-introducing-launched-e452880ef898a70fb77a.js.map"
     ],
     "path---index": [
-      "path---index-49661d526ec3c685fc10.js",
-      "path---index-49661d526ec3c685fc10.js.map"
+      "path---index-cda20a8310907b0d0023.js",
+      "path---index-cda20a8310907b0d0023.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -167,9 +171,9 @@
       "path---episodes-29-blackbox-ryan-mc-leod-38e33dd18fc0cd016b4a.js.map"
     ],
     "app": [
-      "app-c5b62a28e264e0ebd989.js",
+      "app-fd5417d74f7b27a048e3.js",
       "build-js-styles.css",
-      "app-c5b62a28e264e0ebd989.js.map",
+      "app-fd5417d74f7b27a048e3.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-backto-school-break": [
