@@ -121,8 +121,8 @@
       "path---posts-2019-11-19-introducing-launched-e452880ef898a70fb77a.js.map"
     ],
     "path---index": [
-      "path---index-bb24128d0ad88fdba201.js",
-      "path---index-bb24128d0ad88fdba201.js.map"
+      "path---index-4ef9d29901483f486638.js",
+      "path---index-4ef9d29901483f486638.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -183,9 +183,9 @@
       "path---episodes-29-blackbox-ryan-mc-leod-38e33dd18fc0cd016b4a.js.map"
     ],
     "app": [
-      "app-ed59e2d7de0c85c7aa85.js",
+      "app-87fedd44a5080034c4f2.js",
       "build-js-styles.css",
-      "app-ed59e2d7de0c85c7aa85.js.map",
+      "app-87fedd44a5080034c4f2.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-backto-school-break": [
@@ -195,6 +195,10 @@
     "path---episodes-22-castro-oisin-prendiville": [
       "path---episodes-22-castro-oisin-prendiville-a65460709267373e2829.js",
       "path---episodes-22-castro-oisin-prendiville-a65460709267373e2829.js.map"
+    ],
+    "path---episodes-33-happy-scale-russ-shanahan": [
+      "path---episodes-33-happy-scale-russ-shanahan-16c7b4e949ade0e0d5de.js",
+      "path---episodes-33-happy-scale-russ-shanahan-16c7b4e949ade0e0d5de.js.map"
     ],
     "component---src-templates-episode-post-js": [
       "component---src-templates-episode-post-js-d3b5c136c2009919c3fa.js",
