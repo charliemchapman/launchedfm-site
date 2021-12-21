@@ -24,6 +24,10 @@
       "path---episodes-13-cosmicast-shihab-mehboob-a022271447d0795f36e7.js",
       "path---episodes-13-cosmicast-shihab-mehboob-a022271447d0795f36e7.js.map"
     ],
+    "path---episodes-35-halide-sebastiaande-with-ben-sandofsky": [
+      "path---episodes-35-halide-sebastiaande-with-ben-sandofsky-10b85eef2e702cf6f619.js",
+      "path---episodes-35-halide-sebastiaande-with-ben-sandofsky-10b85eef2e702cf6f619.js.map"
+    ],
     "path---episodes-26-hackingwith-swift-paul-hudson": [
       "path---episodes-26-hackingwith-swift-paul-hudson-ab7383069cf55e57407b.js",
       "path---episodes-26-hackingwith-swift-paul-hudson-ab7383069cf55e57407b.js.map"
@@ -121,8 +125,8 @@
       "path---posts-2019-11-19-introducing-launched-e452880ef898a70fb77a.js.map"
     ],
     "path---index": [
-      "path---index-64e50e857a6f83b5c4f4.js",
-      "path---index-64e50e857a6f83b5c4f4.js.map"
+      "path---index-cf6be0c4f614b1277dbb.js",
+      "path---index-cf6be0c4f614b1277dbb.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -187,9 +191,9 @@
       "path---episodes-29-blackbox-ryan-mc-leod-38e33dd18fc0cd016b4a.js.map"
     ],
     "app": [
-      "app-041d669bab3f135fed28.js",
+      "app-7510a68b21d88eca40dc.js",
       "build-js-styles.css",
-      "app-041d669bab3f135fed28.js.map",
+      "app-7510a68b21d88eca40dc.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-backto-school-break": [
