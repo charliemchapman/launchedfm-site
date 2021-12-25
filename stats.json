@@ -125,8 +125,8 @@
       "path---posts-2019-11-19-introducing-launched-e452880ef898a70fb77a.js.map"
     ],
     "path---index": [
-      "path---index-c594d99d4e4e21e25aab.js",
-      "path---index-c594d99d4e4e21e25aab.js.map"
+      "path---index-33ab36f366caf6d51417.js",
+      "path---index-33ab36f366caf6d51417.js.map"
     ],
     "path---subscribe": [
       "path---subscribe-a0e39f21c11f6a62c5ab.js",
@@ -191,9 +191,9 @@
       "path---episodes-29-blackbox-ryan-mc-leod-38e33dd18fc0cd016b4a.js.map"
     ],
     "app": [
-      "app-7510a68b21d88eca40dc.js",
+      "app-14e4655a9be7a2061471.js",
       "build-js-styles.css",
-      "app-7510a68b21d88eca40dc.js.map",
+      "app-14e4655a9be7a2061471.js.map",
       "build-js-styles.css.map"
     ],
     "path---episodes-backto-school-break": [
@@ -211,6 +211,10 @@
     "component---src-templates-episode-post-js": [
       "component---src-templates-episode-post-js-d3b5c136c2009919c3fa.js",
       "component---src-templates-episode-post-js-d3b5c136c2009919c3fa.js.map"
+    ],
+    "path---episodes-36-christmas-specialwith-jordan-morgan": [
+      "path---episodes-36-christmas-specialwith-jordan-morgan-0cc4a250544d82523159.js",
+      "path---episodes-36-christmas-specialwith-jordan-morgan-0cc4a250544d82523159.js.map"
     ],
     "path---episodes-9-rosemary-orchard": [
       "path---episodes-9-rosemary-orchard-0ab4c91cd3b2ccc674d4.js",
